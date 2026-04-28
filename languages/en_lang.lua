@@ -22,11 +22,18 @@ Locales["en_lang"] = {
     plantNotGrown = "The plant is not grown yet",
     harvested = "Harvested: ",
     tooCloseToAnotherPlant = "You are too close to another plant",
+    mustUseLockedSpot = "You must plant at one of the designated plots",
+    lockedSpotTaken = "That planting spot is already in use",
+    needHouseOwnership = "You must own a house before planting",
+    needHousePlot = "You must be on your property to plant",
+    movedTooFar = "You moved too far away",
     noCarry = "Can't carry item: ",
     UsageLeft = "Durability: ",
+    WaterUsesLeft = "Water uses left: ",
     FinishPlantingProcessFirst = "Finish growing the current plant first",
     needNewTool = "Tool broken, you need a new one!",
     useBucket = "Use Bucket",
     --- Smelling 
     SmellPlant = "There is the scent of a suspicious plant in the air",
+    SmellablePlant = "Smellable plant: ",
 }
